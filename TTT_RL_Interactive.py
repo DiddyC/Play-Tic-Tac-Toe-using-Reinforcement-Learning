@@ -164,7 +164,7 @@ class IATicTacToe(QtGui.QWidget):
 
 if __name__ == "__main__":
     app = QtGui.QApplication(sys.argv)
-    NN_model_loaded = load_model('NN_TTT_model.h5')
+    NN_model_loaded = load_model('NN_TTT_model_2.h5')
     t = IATicTacToe(NN_model_loaded)
     t.show()
 
