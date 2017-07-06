@@ -1,6 +1,6 @@
 # Reinforcement-learning
 
-- This is a straightforward implementation of Tic-Tac-Toe game by a Q-learning algorithm using a neural network for the action-value function evaluation.
+- This is a straightforward implementation of the Tic-Tac-Toe game by a Q-learning algorithm using a neural network for the action-value function evaluation.
 
 - The neural network is implemented in Keras using TensorFlow backend.
 
